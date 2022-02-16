@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Kalpay Gateway Doc'
+copyright = '2021, Kalpay'
+author = 'Tobin Frost'
 
 release = '0.1'
 version = '0.1.0'
