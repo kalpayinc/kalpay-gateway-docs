@@ -1,7 +1,7 @@
 Welcome to Kalpay's gateway SDK documentation!
 ===================================
 
-**SuperSDK** is a javascript library is a javascript library that allows you to integrate the Kalpay gateway
+**SuperSDK** is a javascript library that allows you to integrate the Kalpay gateway
 into your e-commerce site in order to offer payment methods.
 
 
