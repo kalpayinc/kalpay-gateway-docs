@@ -1,15 +1,13 @@
-Welcome to Lumache's documentation!
+Welcome to Kalpay's gateway SDK documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**SuperSDK** is a javascript library is a javascript library that allows you to integrate the Kalpay gateway
+into your e-commerce site in order to offer payment methods.
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-Lumache has its documentation hosted on Read the Docs, and edited by Tobin Frost
 .. note::
 
    This project is under active development.
