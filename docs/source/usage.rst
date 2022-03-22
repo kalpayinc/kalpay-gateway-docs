@@ -155,6 +155,7 @@ Exemple
 Voici un exemple de code *javascript* intégrant la Gateway de Kalpay
 
 .. code-block:: javascript
+   
    <script>
        (function(){
            window.superSDK_ready = window.superSDK_ready || [];
