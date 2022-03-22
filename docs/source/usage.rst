@@ -189,6 +189,13 @@ Voici un exemple de code *javascript* intégrant la Gateway de Kalpay
        }
    </script>
 
+Pour afficher la gateway, inserer le code suivant dans un code *html* 
 
+.. code-block:: html
+   <button onclick="superSDK.proceed(this)">
+      Payer avec Kalpay
+   </button>
 
+.. note::
+   La méthode ``superSDK.proceed()`` lance la gateway avec les données précédemments renseignées.
 
