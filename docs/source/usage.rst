@@ -174,7 +174,7 @@ Voici un exemple de code *javascript* intégrant la Gateway de Kalpay
                back_url : window.location.href
            })
        }
-</script>
+   </script>
 
 
 
