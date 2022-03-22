@@ -132,6 +132,19 @@ le paramètre ``objet de customisation`` ressemble à ceci :
       frame_color: [CUSTOM_COLOR]
    }
 
+Le paramètrage de la gateway ressemblera à ceci :
+
+.. code-block:: javascript
+   
+   superSDK.setup(
+      {
+         store_name : [PAGE_NAME],
+         triggerer: "render_zone",
+         store_logo_url : [LOGO_URL],
+         frame_color: [CUSTOM_COLOR]
+      }
+   );
+
 .. note::
     ``LOGO_URL`` n'est pas obligatoire et doit être un lien externe (http://lien_vers_image)
     ``CUSTOM_COLOR`` est un code hexadecimal (#03fc7b)
