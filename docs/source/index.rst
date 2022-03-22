@@ -28,8 +28,8 @@ comment :ref:`misenplace` le sdk.
 
    This project is under active development.
 
-Contents
---------
+Table des matières
+------------------
 
 .. toctree::
 

@@ -111,7 +111,7 @@ L'initialisation de la gateway dans une page html ressemblera à ceci :
 
 
 .. _parametrage:
-1. Paramètrage (Customisation)
+2. Paramètrage (Customisation)
 
 Après *initialisation* ici :ref:`initialisation`, la seconde étape est de paramètrer votre passerelle.
 
@@ -150,7 +150,7 @@ Le paramètrage de la gateway ressemblera à ceci :
     ``CUSTOM_COLOR`` est un code hexadecimal (#03fc7b)
 
 Exemple
-=======
+-------
 
 Voici un exemple de code *javascript* intégrant la Gateway de Kalpay
 
