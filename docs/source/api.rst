@@ -19,7 +19,7 @@ la méthode ``init(credential, callback_fn)`` active la gateway grâce aux param
 credential (obligatoire)
 ++++++++++
 
-.. highlight::javascript
+.. highlight:: javascript
 
    {
       accessKey: [ACCESS_KEY],
@@ -29,7 +29,7 @@ credential (obligatoire)
 callback_fn
 ++++++++++
 
-.. highlight::javascript
+.. highlight:: javascript
 
    function(response){
    
