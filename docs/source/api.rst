@@ -53,7 +53,7 @@ custom_settings (obligatoire)
 
    {
       store_name : [PAGE_NAME], // le nom du site ou page, utilisé pour la facturation
-      triggerer: "render_zone",
+      triggerer: "render_zone", // le sélecteur (CSS) vers le bouton ou l'élément déclacheur du paiement
       store_logo_url : [LOGO_URL], // le logo du site ou page
       frame_color: [CUSTOM_COLOR] // la couleur du ui (hex) de la gateway : bouton, labels, etc..
    }
